@@ -20,7 +20,7 @@
   "dependencies": {
     "clivas": "0.1.4",
     "network-address": "0.0.4",
-    "ip": "0.3.0",
+    "ip": "1.1.9",
     "node-uuid": "1.4.1",
     "adm-zip": "0.4.4",
     "numeral": "1.5.3",
